@@ -18,9 +18,9 @@ The data available for anomaly detection in bitcoin transaction network was of t
 
 #### It is important to identify that 3 and 5 the same user with different keys. It is best to group them with a common name say 1
 
-#1 3,5,100,7
-#2 5,9
-#3 430,6,7000
+- #1 3,5,100,7
+- #2 5,9
+- #3 430,6,7000
 
 #### The input_edges file would then become
 
